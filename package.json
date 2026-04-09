@@ -1,0 +1,13 @@
+{
+  "name": "telewa-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@trashcore/baileys": "latest",
+    "telegraf": "^4.16.3",
+    "pino": "^8.21.0"
+  }
+}
