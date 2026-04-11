@@ -14,7 +14,7 @@
 */
 
 module.exports = {
-  TELEGRAM_TOKEN: '8771469569:AAEZl9geia-_G6kkmQrSJ3FHMsHmLCkysOQ',
+  TELEGRAM_TOKEN: '8764945455:AAEctuWog8j-fTPzfMOxCwBszxl_d_Ck2OM',
   OWNER_ID: 6817804856,
   BOT_NAME: 'NOVA-XMD™©®✓',
   DEFAULT_PREFIX: '.',
