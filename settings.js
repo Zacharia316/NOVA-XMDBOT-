@@ -15,12 +15,12 @@
 
 module.exports = {
   TELEGRAM_TOKEN: '',
-  OWNER_ID: 6817804856,
+  OWNER_ID: ,
   BOT_NAME: 'NOVA-XMD™©®✓',
   DEFAULT_PREFIX: '.',
   SESSIONS_DIR: './sessions',
   PREMIUM_DB: './database/premium.json',
-  MENU_IMAGE: 'https://i.imgur.com/yourimage.jpg',
-  REPORT_CHAT: 6817804856,
+  MENU_IMAGE: 'https://files.catbox.moe/i7iha9.jpeg',
+  REPORT_CHAT: ,
   ANTHROPIC_API_KEY: process.env.ANTHROPIC_API_KEY || '',
 };
